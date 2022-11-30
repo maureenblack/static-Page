@@ -37,3 +37,16 @@ h1{
   font-weight: 50%;
   color: rgb(227, 224, 224);
 }
+.button{
+  background-color: #2E5BFF;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  font-size: 20px;
+  font-weight: 100;
+  padding: 10px;
+  margin: 30px;
+  margin-right: 4%;
+
+
+}
